@@ -1,0 +1,849 @@
+(13:08:08) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040625  0.866667  0.077612        0.000887                0.000831
+(13:08:08) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036082  0.933333  0.069479        0.000904                0.000838
+(13:08:08) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.043771  0.8125  0.083067        0.000949                0.000889
+(13:08:09) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02957  0.733333  0.056848        0.000918                 0.00085
+(13:08:09) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+...
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.020202  0.133333  0.035088        0.000921                0.000857
+(13:08:56) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038217     0.4  0.069767         0.00096                0.000872
+(13:08:56) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038095    0.25  0.066116         0.00099                0.000923
+(13:08:56) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (180). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.021429     0.2   0.03871        0.001048                0.000925
+(13:08:56) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.12069  0.466667  0.191781        0.000886                 0.00083
+(13:08:56) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.020202  0.133333  0.035088        0.000921                0.000857
+(13:08:57) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038217     0.4  0.069767         0.00096                0.000872
+(13:08:57) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (180). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038095    0.25  0.066116         0.00099                0.000923
+(13:08:57) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.021429     0.2   0.03871        0.001048                0.000925
+(13:08:57) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (183). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.12069  0.466667  0.191781        0.000886                 0.00083
+(13:08:57) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.133333  0.038835        0.000968                0.000895
+(13:08:58) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040541     0.4   0.07362        0.001009                0.000902
+(13:08:58) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.048193    0.25  0.080808        0.001044                0.000971
+(13:08:58) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+...
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.067568  0.333333   0.11236        0.000904                0.000842
+(13:08:58) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (128) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (128) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.133333  0.038835        0.000968                0.000895
+(13:08:58) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040541     0.4   0.07362        0.001009                0.000902
+(13:08:59) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (128) is greater than the total number of samples (120). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (128) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.048193    0.25  0.080808        0.001044                0.000971
+(13:08:59) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02521     0.2  0.044776        0.000994                0.000906
+(13:08:59) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (128) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.067568  0.333333   0.11236        0.000904                0.000842
+(13:08:59) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.133333  0.038835        0.000968                0.000895
+(13:08:59) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (120). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040541     0.4   0.07362        0.001009                0.000902
+(13:09:00) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.048193    0.25  0.080808        0.001044                0.000971
+(13:09:00) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (256) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02521     0.2  0.044776        0.000994                0.000906
+(13:09:00) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.067568  0.333333   0.11236        0.000904                0.000842
+(13:09:00) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.133333  0.038835        0.000968                0.000895
+(13:09:00) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040541     0.4   0.07362        0.001009                0.000902
+(13:09:01) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (120). max_samples will be set to n_samples for estimation.
+  warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.048193    0.25  0.080808        0.001044                0.000971
+(13:09:01) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02521     0.2  0.044776        0.000994                0.000906
+(13:09:01) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\ensemble\_iforest.py:336: UserWarning: max_samples (512) is greater than the total number of samples (122). max_samples will be set to n_samples for estimation.
+  warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.067568  0.333333   0.11236        0.000904                0.000842
+(13:09:01) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030675  0.333333   0.05618        0.000923                 0.00086
+(13:09:01) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.027933  0.333333  0.051546        0.000958                0.000872
+(13:09:02) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03937  0.3125   0.06993        0.001006                0.000937
+(13:09:02) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+...
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.046667  0.466667  0.084848          0.0009                0.000841
+(13:09:14) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000889                0.000832
+(13:09:14) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.5  0.066667  0.117647        0.000906                0.000839
+(13:09:15) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000952                0.000891
+(13:09:15) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.133333  0.235294        0.000927                0.000855
+(13:09:15) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000889                0.000826
+(13:09:16) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.4  0.133333       0.2        0.000889                0.000832
+(13:09:16) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+...
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000921                0.000857
+(13:09:22) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00096                0.000872
+(13:09:22) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00099                0.000923
+(13:09:23) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001048                0.000925
+(13:09:23) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000886                 0.00083
+(13:09:23) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000921                0.000857
+(13:09:23) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00096                0.000872
+(13:09:23) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00099                0.000923
+(13:09:24) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001048                0.000925
+(13:09:24) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000886                 0.00083
+(13:09:24) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000921                0.000857
+(13:09:24) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.333333  0.066667  0.111111         0.00096                0.000872
+(13:09:24) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00099                0.000923
+(13:09:25) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.066667     0.125        0.001048                0.000925
+(13:09:25) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000886                 0.00083
+(13:09:25) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000921                0.000857
+(13:09:25) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.166667  0.066667  0.095238         0.00096                0.000872
+(13:09:25) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00099                0.000923
+(13:09:26) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+...
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000886                 0.00083
+(13:09:26) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000968                0.000895
+(13:09:26) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001009                0.000902
+(13:09:26) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001044                0.000971
+(13:09:27) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000994                0.000906
+(13:09:27) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000904                0.000842
+(13:09:27) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000968                0.000895
+(13:09:27) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001009                0.000902
+(13:09:27) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001044                0.000971
+(13:09:28) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000994                0.000906
+(13:09:28) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000904                0.000842
+(13:09:28) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000968                0.000895
+(13:09:28) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001009                0.000902
+(13:09:28) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001044                0.000971
+(13:09:29) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000994                0.000906
+(13:09:29) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000904                0.000842
+(13:09:29) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000968                0.000895
+(13:09:29) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.5  0.066667  0.117647        0.001009                0.000902
+(13:09:29) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001044                0.000971
+(13:09:30) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+...
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000904                0.000842
+(13:09:30) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000923                 0.00086
+(13:09:30) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000958                0.000872
+(13:09:31) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001006                0.000937
+(13:09:31) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.5  0.066667  0.117647        0.000973                0.000888
+(13:09:32) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000898                0.000838
+(13:09:32) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000923                 0.00086
+(13:09:33) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000958                0.000872
+(13:09:33) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001006                0.000937
+(13:09:34) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.333333  0.066667  0.111111        0.000973                0.000888
+(13:09:34) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000898                0.000838
+(13:09:35) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000923                 0.00086
+(13:09:35) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.2  0.066667       0.1        0.000958                0.000872
+(13:09:36) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001006                0.000937
+(13:09:36) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.142857  0.066667  0.090909        0.000973                0.000888
+(13:09:37) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000898                0.000838
+(13:09:37) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000923                 0.00086
+(13:09:38) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+...
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000898                0.000838
+(13:09:40) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000976                0.000904
+(13:09:40) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001017                0.000917
+(13:09:41) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001027                0.000958
+(13:09:41) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001094                0.000965
+(13:09:42) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000909                0.000847
+(13:09:43) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000976                0.000904
+(13:09:43) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001017                0.000917
+(13:09:44) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001027                0.000958
+(13:09:44) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001094                0.000965
+(13:09:45) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000909                0.000847
+(13:09:45) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000976                0.000904
+(13:09:46) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.4  0.133333       0.2        0.001017                0.000917
+(13:09:47) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001027                0.000958
+(13:09:47) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.25  0.133333  0.173913        0.001094                0.000965
+(13:09:48) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\metrics\_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000909                0.000847
+(13:09:48) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000976                0.000904
+(13:09:49) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.333333  0.133333  0.190476        0.001017                0.000917
+(13:09:49) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001027                0.000958
+(13:09:50) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+...
+56     0.000000  0.000000            0.001004               0.000918
+57     0.000000  0.000000            0.001004               0.000918
+58     0.053333  0.074783            0.001004               0.000918
+59     0.053333  0.068864            0.001004               0.000918
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...

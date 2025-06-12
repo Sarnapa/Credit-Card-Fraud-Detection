@@ -1,0 +1,1979 @@
+(23:22:49) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034692    0.84  0.066631        0.000849                0.000836
+(23:22:50) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033908  0.813333  0.065101        0.000853                0.000839
+(23:22:50) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031974  0.763158  0.061376         0.00086                0.000847
+(23:22:51) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034972  0.907895   0.06735        0.000857                0.000844
+(23:22:51) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030429  0.868421  0.058797        0.000855                0.000844
+(23:22:52) Fold 1. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035039    0.84  0.067272        0.000848                0.000835
+(23:22:53) Fold 2. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036505  0.813333  0.069874        0.000852                0.000839
+(23:22:54) Fold 3. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03619    0.75  0.069049         0.00086                0.000848
+(23:22:55) Fold 4. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036938  0.907895  0.070988        0.000857                0.000845
+(23:22:56) Fold 5. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034179  0.868421   0.06577        0.000855                0.000844
+(23:22:56) Fold 1. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036073  0.813333  0.069083        0.000848                0.000836
+(23:22:58) Fold 2. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034503     0.8  0.066152        0.000853                 0.00084
+(23:22:59) Fold 3. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035714  0.723684  0.068069        0.000862                 0.00085
+(23:23:01) Fold 4. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035622  0.907895  0.068554        0.000857                0.000845
+(23:23:02) Fold 5. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034902  0.868421  0.067107        0.000856                0.000845
+(23:23:04) Fold 1. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03644  0.813333  0.069754        0.000849                0.000836
+(23:23:07) Fold 2. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035942  0.826667  0.068889        0.000853                0.000839
+(23:23:09) Fold 3. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035347  0.723684  0.067402        0.000862                 0.00085
+(23:23:11) Fold 4. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036955  0.881579  0.070937        0.000857                0.000844
+(23:23:14) Fold 5. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036728  0.868421  0.070475        0.000856                0.000844
+(23:23:17) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039548    0.28  0.069307        0.000876                0.000862
+(23:23:17) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044177  0.293333  0.076789        0.000874                 0.00086
+(23:23:18) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036717  0.223684   0.06308        0.000896                 0.00088
+(23:23:18) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040773    0.25  0.070111        0.000873                0.000859
+(23:23:19) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.03  0.236842  0.053254         0.00088                0.000867
+(23:23:19) Fold 1. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040968  0.293333  0.071895        0.000876                0.000861
+(23:23:19) Fold 2. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044118    0.24  0.074534        0.000871                0.000857
+(23:23:20) Fold 3. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040609  0.210526  0.068085        0.000893                0.000879
+(23:23:21) Fold 4. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041475  0.236842  0.070588        0.000877                0.000863
+(23:23:21) Fold 5. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035343  0.223684  0.061041         0.00088                0.000867
+(23:23:22) Fold 1. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040968  0.293333  0.071895        0.000874                 0.00086
+(23:23:23) Fold 2. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037344    0.24  0.064632        0.000881                0.000866
+(23:23:24) Fold 3. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038031  0.223684   0.06501         0.00089                0.000876
+(23:23:25) Fold 4. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038961  0.236842  0.066914        0.000878                0.000864
+(23:23:26) Fold 5. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034413  0.223684  0.059649        0.000882                0.000869
+(23:23:27) Fold 1. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041584    0.28  0.072414        0.000876                0.000861
+(23:23:29) Fold 2. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.04    0.24  0.068571        0.000883                0.000868
+(23:23:31) Fold 3. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.04  0.223684  0.067864        0.000887                0.000874
+(23:23:33) Fold 4. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038793  0.236842  0.066667        0.000876                0.000863
+(23:23:35) Fold 5. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033865  0.223684  0.058824        0.000881                0.000868
+(23:23:36) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042424    0.28  0.073684        0.000886                 0.00087
+(23:23:37) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03719    0.24  0.064401        0.000914                0.000899
+(23:23:37) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.043103  0.197368  0.070755        0.000904                 0.00089
+(23:23:37) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030686  0.223684  0.053968        0.000896                0.000883
+(23:23:38) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031022  0.223684  0.054487        0.000884                0.000871
+(23:23:38) Fold 1. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.045161    0.28  0.077778        0.000893                0.000876
+(23:23:39) Fold 2. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042353    0.24     0.072        0.000915                0.000899
+(23:23:39) Fold 3. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.04321  0.184211      0.07        0.000902                0.000889
+(23:23:40) Fold 4. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932          0.0009                0.000886
+(23:23:40) Fold 5. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932        0.000895                0.000882
+(23:23:41) Fold 1. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041408  0.266667  0.071685        0.000898                0.000881
+(23:23:43) Fold 2. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040541    0.24  0.069364        0.000913                0.000898
+(23:23:44) Fold 3. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037135  0.184211   0.06181        0.000901                0.000887
+(23:23:45) Fold 4. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035789  0.223684  0.061706        0.000893                0.000879
+(23:23:46) Fold 5. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03012  0.197368  0.052265        0.000902                0.000889
+(23:23:47) Fold 1. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044248  0.266667  0.075901        0.000901                0.000885
+(23:23:49) Fold 2. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040909    0.24  0.069903        0.000917                0.000901
+(23:23:51) Fold 3. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041096  0.197368  0.068027        0.000903                0.000889
+(23:23:52) Fold 4. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034632  0.210526   0.05948        0.000897                0.000883
+(23:23:54) Fold 5. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.029851  0.184211  0.051376        0.000903                0.000889
+(23:23:56) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036212  0.346667  0.065574        0.000873                0.000859
+(23:23:57) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025825    0.24  0.046632        0.000885                0.000871
+(23:23:57) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034483  0.302632  0.061911        0.000887                0.000873
+(23:23:57) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.043152  0.302632  0.075534        0.000877                0.000864
+(23:23:58) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038737  0.355263  0.069858        0.000876                0.000863
+(23:23:58) Fold 1. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037092  0.333333  0.066756        0.000877                0.000861
+(23:23:59) Fold 2. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034483    0.24  0.060302        0.000884                 0.00087
+(23:24:00) Fold 3. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038532  0.276316  0.067633        0.000888                0.000875
+(23:24:01) Fold 4. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039761  0.263158  0.069085        0.000878                0.000865
+(23:24:01) Fold 5. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033281  0.276316  0.059406        0.000878                0.000865
+(23:24:02) Fold 1. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038017  0.306667  0.067647        0.000875                 0.00086
+(23:24:04) Fold 2. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030508    0.24  0.054135        0.000883                0.000869
+(23:24:05) Fold 3. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037523  0.263158  0.065681        0.000891                0.000878
+(23:24:08) Fold 4. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031097    0.25  0.055313        0.000875                0.000863
+(23:24:09) Fold 5. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.03  0.276316  0.054124        0.000884                0.000871
+(23:24:11) Fold 1. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035549  0.306667  0.063712        0.000878                0.000862
+(23:24:13) Fold 2. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035842  0.266667  0.063191        0.000878                0.000864
+(23:24:15) Fold 3. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035651  0.263158  0.062794        0.000889                0.000876
+(23:24:17) Fold 4. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.029752  0.236842  0.052863        0.000874                0.000862
+(23:24:20) Fold 5. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030856  0.289474  0.055767        0.000885                0.000872
+(23:24:22) Fold 1. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03481  0.293333  0.062235        0.000922                0.000902
+(23:24:23) Fold 2. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02719    0.24  0.048847        0.000922                0.000905
+(23:24:23) Fold 3. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024235    0.25  0.044186        0.000905                0.000891
+(23:24:24) Fold 4. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031008  0.263158  0.055479        0.000911                0.000896
+(23:24:24) Fold 5. Main param: n_estimators=50. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023772  0.197368  0.042433        0.000903                0.000889
+(23:24:25) Fold 1. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039326    0.28  0.068966        0.000908                0.000892
+(23:24:25) Fold 2. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038462  0.253333  0.066784         0.00091                0.000893
+(23:24:26) Fold 3. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.026012  0.236842  0.046875        0.000908                0.000894
+(23:24:27) Fold 4. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028358    0.25  0.050938        0.000892                0.000878
+(23:24:28) Fold 5. Main param: n_estimators=100. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 100}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025682  0.210526   0.04578         0.00091                0.000896
+(23:24:29) Fold 1. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035533    0.28  0.063063        0.000907                0.000891
+(23:24:30) Fold 2. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030875    0.24  0.054711        0.000913                0.000897
+(23:24:33) Fold 3. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031987    0.25  0.056716        0.000903                0.000889
+(23:24:34) Fold 4. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024931  0.236842  0.045113        0.000893                 0.00088
+(23:24:36) Fold 5. Main param: n_estimators=200. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 200}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.021362  0.210526  0.038788        0.000912                0.000897
+(23:24:37) Fold 1. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0     0.0336    0.28      0.06        0.000909                0.000893
+(23:24:40) Fold 2. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033272    0.24  0.058442        0.000909                0.000893
+(23:24:42) Fold 3. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.032313    0.25  0.057229          0.0009                0.000887
+(23:24:45) Fold 4. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025641  0.236842  0.046272        0.000891                0.000878
+(23:24:48) Fold 5. Main param: n_estimators=300. All params: {'random_state': 42, 'n_jobs': -1, 'n_estimators': 300}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023546  0.223684  0.042607        0.000914                0.000899
+(23:24:50) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035039    0.84  0.067272        0.000848                0.000835
+(23:24:51) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036505  0.813333  0.069874        0.000852                0.000839
+(23:24:53) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03619    0.75  0.069049         0.00086                0.000848
+(23:24:53) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036938  0.907895  0.070988        0.000857                0.000845
+(23:24:54) Fold 5. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034179  0.868421   0.06577        0.000855                0.000844
+(23:24:55) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024096  0.853333  0.046869        0.000848                0.000835
+(23:24:56) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.027332    0.84  0.052941        0.000852                0.000839
+(23:24:57) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025956    0.75  0.050176        0.000863                0.000851
+(23:24:58) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.029933  0.934211  0.058007        0.000856                0.000844
+(23:24:59) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028278  0.868421  0.054772        0.000856                0.000844
+(23:24:59) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035039    0.84  0.067272        0.000848                0.000835
+(23:25:00) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036505  0.813333  0.069874        0.000852                0.000839
+(23:25:01) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03619    0.75  0.069049         0.00086                0.000848
+(23:25:02) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036938  0.907895  0.070988        0.000857                0.000845
+(23:25:02) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034179  0.868421   0.06577        0.000855                0.000844
+(23:25:03) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.049339  0.746667  0.092562         0.00085                0.000837
+(23:25:04) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.050298  0.786667  0.094551         0.00085                0.000837
+(23:25:05) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.047195  0.697368  0.088407        0.000861                0.000849
+(23:25:06) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.049599  0.894737  0.093988        0.000855                0.000843
+(23:25:07) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.046296  0.855263  0.087838        0.000855                0.000843
+(23:25:08) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040968  0.293333  0.071895        0.000876                0.000861
+(23:25:08) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044118    0.24  0.074534        0.000871                0.000857
+(23:25:09) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040609  0.210526  0.068085        0.000893                0.000879
+(23:25:10) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041475  0.236842  0.070588        0.000877                0.000863
+(23:25:11) Fold 5. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035343  0.223684  0.061041         0.00088                0.000867
+(23:25:11) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044828  0.346667  0.079389        0.000868                0.000854
+(23:25:12) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033748  0.253333  0.059561         0.00088                0.000865
+(23:25:12) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028571  0.223684  0.050671        0.000888                0.000874
+(23:25:13) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042955  0.328947  0.075988        0.000877                0.000863
+(23:25:13) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.026279    0.25  0.047559         0.00088                0.000867
+(23:25:14) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040968  0.293333  0.071895        0.000876                0.000861
+(23:25:14) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044118    0.24  0.074534        0.000871                0.000857
+(23:25:15) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.040609  0.210526  0.068085        0.000893                0.000879
+(23:25:16) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041475  0.236842  0.070588        0.000877                0.000863
+(23:25:16) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035343  0.223684  0.061041         0.00088                0.000867
+(23:25:17) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.05483    0.28  0.091703        0.000873                0.000859
+(23:25:17) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.050279    0.24  0.083141        0.000874                0.000861
+(23:25:18) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.04886  0.197368  0.078329        0.000894                0.000881
+(23:25:19) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038647  0.210526  0.065306        0.000875                0.000863
+(23:25:19) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041026  0.210526   0.06867        0.000885                0.000872
+(23:25:20) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.045161    0.28  0.077778        0.000893                0.000876
+(23:25:21) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042353    0.24     0.072        0.000915                0.000899
+(23:25:22) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.04321  0.184211      0.07        0.000902                0.000889
+(23:25:22) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932          0.0009                0.000886
+(23:25:23) Fold 5. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932        0.000895                0.000882
+(23:25:23) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042991  0.306667   0.07541        0.000919                0.000887
+(23:25:24) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.03352    0.24  0.058824        0.000917                0.000896
+(23:25:25) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036876  0.223684  0.063315        0.000889                0.000876
+(23:25:25) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034682  0.236842  0.060504        0.000901                0.000886
+(23:25:26) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034068  0.223684   0.05913        0.000898                0.000883
+(23:25:26) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.045161    0.28  0.077778        0.000893                0.000876
+(23:25:27) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042353    0.24     0.072        0.000915                0.000899
+(23:25:27) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.04321  0.184211      0.07        0.000902                0.000889
+(23:25:28) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932          0.0009                0.000886
+(23:25:29) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034261  0.210526  0.058932        0.000895                0.000882
+(23:25:29) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042714  0.226667  0.071882        0.000904                0.000887
+(23:25:30) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.048991  0.226667  0.080569        0.000897                0.000882
+(23:25:30) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.043636  0.157895  0.068376        0.000903                0.000889
+(23:25:31) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.026066  0.144737  0.044177        0.000905                0.000891
+(23:25:32) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.042169  0.184211  0.068627        0.000891                0.000878
+(23:25:32) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037092  0.333333  0.066756        0.000877                0.000861
+(23:25:33) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034483    0.24  0.060302        0.000884                 0.00087
+(23:25:35) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038532  0.276316  0.067633        0.000888                0.000875
+(23:25:35) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039761  0.263158  0.069085        0.000878                0.000865
+(23:25:36) Fold 5. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033281  0.276316  0.059406        0.000878                0.000865
+(23:25:37) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038929  0.426667  0.071349        0.000871                0.000858
+(23:25:38) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031707  0.346667  0.058101        0.000873                 0.00086
+(23:25:38) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033512  0.328947  0.060827        0.000888                0.000874
+(23:25:39) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038409  0.368421  0.069565        0.000874                 0.00086
+(23:25:40) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.044164  0.368421  0.078873        0.000882                0.000869
+(23:25:40) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.037092  0.333333  0.066756        0.000877                0.000861
+(23:25:41) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.034483    0.24  0.060302        0.000884                 0.00087
+(23:25:42) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038532  0.276316  0.067633        0.000888                0.000875
+(23:25:43) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039761  0.263158  0.069085        0.000878                0.000865
+(23:25:44) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033281  0.276316  0.059406        0.000878                0.000865
+(23:25:44) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.047826  0.293333  0.082243        0.000867                0.000852
+(23:25:46) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036468  0.253333  0.063758        0.000882                0.000865
+(23:25:47) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038549  0.223684  0.065764         0.00088                0.000867
+(23:25:48) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035849    0.25  0.062706        0.000876                0.000862
+(23:25:49) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.031746  0.236842  0.055988        0.000881                0.000868
+(23:25:50) Fold 1. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039326    0.28  0.068966        0.000908                0.000892
+(23:25:50) Fold 2. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038462  0.253333  0.066784         0.00091                0.000893
+(23:25:51) Fold 3. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.026012  0.236842  0.046875        0.000908                0.000894
+(23:25:52) Fold 4. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028358    0.25  0.050938        0.000892                0.000878
+(23:25:53) Fold 5. Main param: max_samples=auto. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 'auto'}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025682  0.210526   0.04578         0.00091                0.000896
+(23:25:54) Fold 1. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.036278  0.306667   0.06488        0.000897                0.000878
+(23:25:55) Fold 2. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.029687  0.253333  0.053147        0.000922                0.000905
+(23:25:55) Fold 3. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.032362  0.263158  0.057637        0.000918                0.000903
+(23:25:56) Fold 4. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02751  0.263158  0.049813        0.000891                0.000877
+(23:25:57) Fold 5. Main param: max_samples=128. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 128}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025276  0.210526  0.045134        0.000909                0.000894
+(23:25:58) Fold 1. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.039326    0.28  0.068966        0.000908                0.000892
+(23:25:59) Fold 2. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038462  0.253333  0.066784         0.00091                0.000893
+(23:26:00) Fold 3. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.026012  0.236842  0.046875        0.000908                0.000894
+(23:26:01) Fold 4. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028358    0.25  0.050938        0.000892                0.000878
+(23:26:02) Fold 5. Main param: max_samples=256. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 256}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025682  0.210526   0.04578         0.00091                0.000896
+(23:26:03) Fold 1. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.038043    0.28  0.066986        0.000897                0.000879
+(23:26:04) Fold 2. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.035417  0.226667  0.061261        0.000907                0.000892
+(23:26:04) Fold 3. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.033962  0.236842  0.059406        0.000899                0.000885
+(23:26:05) Fold 4. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.028146  0.223684      0.05        0.000888                0.000875
+(23:26:06) Fold 5. Main param: max_samples=512. All params: {'random_state': 42, 'n_jobs': -1, 'max_samples': 512}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025437  0.210526   0.04539        0.000917                0.000902
+(23:26:07) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.222222  0.026667  0.047619        0.000848                0.000835
+(23:26:09) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000852                0.000839
+(23:26:11) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00086                0.000848
+(23:26:13) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.25  0.013158     0.025        0.000857                0.000845
+(23:26:14) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.142857  0.013158  0.024096        0.000855                0.000844
+(23:26:16) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.425532  0.266667  0.327869        0.000848                0.000835
+(23:26:17) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0      0.375    0.24  0.292683        0.000852                0.000839
+(23:26:19) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.270833  0.171053  0.209677         0.00086                0.000848
+(23:26:20) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.318182  0.184211  0.233333        0.000857                0.000845
+(23:26:22) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.341463  0.184211  0.239316        0.000855                0.000844
+(23:26:24) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.162281  0.493333  0.244224        0.000848                0.000835
+(23:26:26) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.155251  0.453333  0.231293        0.000852                0.000839
+(23:26:27) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.165049  0.447368  0.241135         0.00086                0.000848
+(23:26:29) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.121076  0.355263  0.180602        0.000857                0.000845
+(23:26:30) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.176955  0.565789  0.269592        0.000855                0.000844
+(23:26:32) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.109375  0.653333   0.18738        0.000848                0.000835
+(23:26:33) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.104651     0.6  0.178218        0.000852                0.000839
+(23:26:36) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0     0.1067  0.565789  0.179541         0.00086                0.000848
+(23:26:37) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.099352  0.605263  0.170686        0.000857                0.000845
+(23:26:39) Fold 5. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.103306  0.657895  0.178571        0.000855                0.000844
+(23:26:40) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000876                0.000861
+(23:26:41) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000871                0.000857
+(23:26:42) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000893                0.000879
+(23:26:42) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000877                0.000863
+(23:26:43) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00088                0.000867
+(23:26:43) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000876                0.000861
+(23:26:44) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000871                0.000857
+(23:26:45) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000893                0.000879
+(23:26:45) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000877                0.000863
+(23:26:46) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00088                0.000867
+(23:26:46) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.142857  0.026667  0.044944        0.000876                0.000861
+(23:26:47) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000871                0.000857
+(23:26:48) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000893                0.000879
+(23:26:49) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.333333  0.026316   0.04878        0.000877                0.000863
+(23:26:50) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.1  0.013158  0.023256         0.00088                0.000867
+(23:26:50) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.076923  0.026667  0.039604        0.000876                0.000861
+(23:26:51) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.111111  0.026667  0.043011        0.000871                0.000857
+(23:26:51) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.030303  0.013158  0.018349        0.000893                0.000879
+(23:26:52) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.214286  0.039474  0.066667        0.000877                0.000863
+(23:26:53) Fold 5. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.08  0.026316  0.039604         0.00088                0.000867
+(23:26:53) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000893                0.000876
+(23:26:54) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000915                0.000899
+(23:26:54) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000902                0.000889
+(23:26:55) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0          0.0009                0.000886
+(23:26:55) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000895                0.000882
+(23:26:56) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000893                0.000876
+(23:26:57) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000915                0.000899
+(23:26:57) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000902                0.000889
+(23:26:58) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013158  0.025974          0.0009                0.000886
+(23:26:58) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000895                0.000882
+(23:26:59) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.142857  0.026667  0.044944        0.000893                0.000876
+(23:27:00) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000915                0.000899
+(23:27:01) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000902                0.000889
+(23:27:02) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.285714  0.026316  0.048193          0.0009                0.000886
+(23:27:02) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.090909  0.013158  0.022989        0.000895                0.000882
+(23:27:03) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.086957  0.026667  0.040816        0.000893                0.000876
+(23:27:03) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.095238  0.026667  0.041667        0.000915                0.000899
+(23:27:04) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000902                0.000889
+(23:27:05) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.133333  0.026316  0.043956          0.0009                0.000886
+(23:27:05) Fold 5. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.041667  0.013158      0.02        0.000895                0.000882
+(23:27:06) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000877                0.000861
+(23:27:08) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000884                 0.00087
+(23:27:10) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000888                0.000875
+(23:27:12) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000878                0.000865
+(23:27:14) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000878                0.000865
+(23:27:16) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000877                0.000861
+(23:27:18) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000884                 0.00087
+(23:27:20) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000888                0.000875
+(23:27:22) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013158  0.025974        0.000878                0.000865
+(23:27:24) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000878                0.000865
+(23:27:26) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.117647  0.026667  0.043478        0.000877                0.000861
+(23:27:28) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.25  0.026667  0.048193        0.000884                 0.00087
+(23:27:30) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000888                0.000875
+(23:27:32) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.222222  0.026316  0.047059        0.000878                0.000865
+(23:27:34) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.066667  0.013158  0.021978        0.000878                0.000865
+(23:27:36) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.107143    0.04  0.058252        0.000877                0.000861
+(23:27:38) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.133333  0.053333   0.07619        0.000884                 0.00087
+(23:27:40) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.045455  0.026316  0.033333        0.000888                0.000875
+(23:27:42) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.111111  0.052632  0.071429        0.000878                0.000865
+(23:27:44) Fold 5. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.064516  0.026316  0.037383        0.000878                0.000865
+(23:27:46) Fold 1. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000908                0.000892
+(23:27:49) Fold 2. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00091                0.000893
+(23:27:52) Fold 3. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000908                0.000894
+(23:27:54) Fold 4. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000892                0.000878
+(23:27:57) Fold 5. Main param: contamination=0.0001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00091                0.000896
+(23:27:59) Fold 1. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013333  0.026316        0.000908                0.000892
+(23:28:02) Fold 2. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00091                0.000893
+(23:28:05) Fold 3. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000908                0.000894
+(23:28:07) Fold 4. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        1.0  0.013158  0.025974        0.000892                0.000878
+(23:28:10) Fold 5. Main param: contamination=0.001. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00091                0.000896
+(23:28:12) Fold 1. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.133333  0.026667  0.044444        0.000908                0.000892
+(23:28:15) Fold 2. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00091                0.000893
+(23:28:18) Fold 3. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000908                0.000894
+(23:28:20) Fold 4. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.285714  0.026316  0.048193        0.000892                0.000878
+(23:28:23) Fold 5. Main param: contamination=0.005. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.090909  0.013158  0.022989         0.00091                0.000896
+(23:28:25) Fold 1. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.074074  0.026667  0.039216        0.000908                0.000892
+(23:28:28) Fold 2. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.1  0.026667  0.042105         0.00091                0.000893
+(23:28:31) Fold 3. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000908                0.000894
+(23:28:33) Fold 4. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.085714  0.039474  0.054054        0.000892                0.000878
+(23:28:36) Fold 5. Main param: contamination=0.01. All params: {'random_state': 42, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0     0.0625  0.026316  0.037037         0.00091                0.000896
+   sampling  sampling_strategy          param   value  mean_precision  \
+0      NONE                0.0   n_estimators      50        0.033195
+1      NONE                0.0   n_estimators     100        0.035770
+2      NONE                0.0   n_estimators     200        0.035363
+3      NONE                0.0   n_estimators     300        0.036282
+4     UNDER                0.5   n_estimators      50        0.038243
+5     UNDER                0.5   n_estimators     100        0.040503
+6     UNDER                0.5   n_estimators     200        0.037944
+7     UNDER                0.5   n_estimators     300        0.038848
+8     UNDER                1.0   n_estimators      50        0.036885
+9     UNDER                1.0   n_estimators     100        0.039849
+10    UNDER                1.0   n_estimators     200        0.036999
+11    UNDER                1.0   n_estimators     300        0.038147
+12     OVER                0.5   n_estimators      50        0.035682
+13     OVER                0.5   n_estimators     100        0.036630
+14     OVER                0.5   n_estimators     200        0.033429
+15     OVER                0.5   n_estimators     300        0.033530
+16     OVER                1.0   n_estimators      50        0.028203
+17     OVER                1.0   n_estimators     100        0.031568
+18     OVER                1.0   n_estimators     200        0.028937
+19     OVER                1.0   n_estimators     300        0.029674
+20     NONE                0.0    max_samples    auto        0.035770
+21     NONE                0.0    max_samples     128        0.027119
+22     NONE                0.0    max_samples     256        0.035770
+23     NONE                0.0    max_samples     512        0.048546
+24    UNDER                0.5    max_samples    auto        0.040503
+25    UNDER                0.5    max_samples     128        0.035276
+26    UNDER                0.5    max_samples     256        0.040503
+27    UNDER                0.5    max_samples     512        0.046729
+28    UNDER                1.0    max_samples    auto        0.039849
+29    UNDER                1.0    max_samples     128        0.036427
+30    UNDER                1.0    max_samples     256        0.039849
+31    UNDER                1.0    max_samples     512        0.040715
+32     OVER                0.5    max_samples    auto        0.036630
+33     OVER                0.5    max_samples     128        0.037344
+34     OVER                0.5    max_samples     256        0.036630
+35     OVER                0.5    max_samples     512        0.038088
+36     OVER                1.0    max_samples    auto        0.031568
+37     OVER                1.0    max_samples     128        0.030223
+38     OVER                1.0    max_samples     256        0.031568
+39     OVER                1.0    max_samples     512        0.032201
+40     NONE                0.0  contamination  0.0001        0.123016
+41     NONE                0.0  contamination   0.001        0.346202
+42     NONE                0.0  contamination   0.005        0.156122
+43     NONE                0.0  contamination    0.01        0.104677
+44    UNDER                0.5  contamination  0.0001        0.200000
+45    UNDER                0.5  contamination   0.001        0.200000
+46    UNDER                0.5  contamination   0.005        0.115238
+47    UNDER                0.5  contamination    0.01        0.102525
+48    UNDER                1.0  contamination  0.0001        0.200000
+49    UNDER                1.0  contamination   0.001        0.400000
+50    UNDER                1.0  contamination   0.005        0.103896
+51    UNDER                1.0  contamination    0.01        0.071439
+52     OVER                0.5  contamination  0.0001        0.000000
+53     OVER                0.5  contamination   0.001        0.400000
+54     OVER                0.5  contamination   0.005        0.131307
+55     OVER                0.5  contamination    0.01        0.092312
+56     OVER                1.0  contamination  0.0001        0.000000
+57     OVER                1.0  contamination   0.001        0.400000
+58     OVER                1.0  contamination   0.005        0.101991
+59     OVER                1.0  contamination    0.01        0.064458
+
+    mean_recall   mean_f1  mean_avg_precision  mean_interpolated_auc
+0      0.838561  0.063851            0.000855               0.000842
+1      0.835930  0.068590            0.000855               0.000842
+2      0.822667  0.067793            0.000855               0.000843
+3      0.822737  0.069491            0.000855               0.000843
+4      0.256772  0.066508            0.000880               0.000866
+5      0.240877  0.069229            0.000879               0.000865
+6      0.243509  0.065620            0.000881               0.000867
+7      0.240842  0.066868            0.000880               0.000867
+8      0.232947  0.063459            0.000897               0.000883
+9      0.225053  0.067528            0.000901               0.000886
+10     0.222386  0.063366            0.000901               0.000887
+11     0.219754  0.064937            0.000904               0.000889
+12     0.309439  0.063902            0.000879               0.000866
+13     0.277825  0.064636            0.000881               0.000867
+14     0.267228  0.059380            0.000882               0.000868
+15     0.272561  0.059666            0.000881               0.000867
+16     0.248772  0.050636            0.000913               0.000897
+17     0.246140  0.055868            0.000906               0.000891
+18     0.243474  0.051678            0.000906               0.000891
+19     0.246105  0.052910            0.000905               0.000890
+20     0.835930  0.068590            0.000855               0.000842
+21     0.849193  0.052553            0.000855               0.000843
+22     0.835930  0.068590            0.000855               0.000842
+23     0.796140  0.091469            0.000854               0.000842
+24     0.240877  0.069229            0.000879               0.000865
+25     0.280526  0.062634            0.000879               0.000865
+26     0.240877  0.069229            0.000879               0.000865
+27     0.227684  0.077430            0.000880               0.000867
+28     0.225053  0.067528            0.000901               0.000886
+29     0.246175  0.063437            0.000905               0.000886
+30     0.225053  0.067528            0.000901               0.000886
+31     0.188035  0.066726            0.000900               0.000886
+32     0.277825  0.064636            0.000881               0.000867
+33     0.367825  0.067743            0.000878               0.000864
+34     0.277825  0.064636            0.000881               0.000867
+35     0.251439  0.066092            0.000877               0.000863
+36     0.246140  0.055868            0.000906               0.000891
+37     0.259368  0.054122            0.000907               0.000891
+38     0.246140  0.055868            0.000906               0.000891
+39     0.235544  0.056609            0.000902               0.000887
+40     0.010596  0.019343            0.000855               0.000842
+41     0.209228  0.260576            0.000855               0.000842
+42     0.463018  0.233369            0.000855               0.000842
+43     0.616456  0.178879            0.000855               0.000842
+44     0.002667  0.005263            0.000879               0.000865
+45     0.002667  0.005263            0.000879               0.000865
+46     0.013228  0.023396            0.000879               0.000865
+47     0.026456  0.041447            0.000879               0.000865
+48     0.002667  0.005263            0.000901               0.000886
+49     0.005298  0.010458            0.000901               0.000886
+50     0.013228  0.023225            0.000901               0.000886
+51     0.018561  0.029288            0.000901               0.000886
+52     0.000000  0.000000            0.000881               0.000867
+53     0.005298  0.010458            0.000881               0.000867
+54     0.018561  0.032142            0.000881               0.000867
+55     0.039719  0.055318            0.000881               0.000867
+56     0.000000  0.000000            0.000906               0.000891
+57     0.005298  0.010458            0.000906               0.000891
+58     0.013228  0.023125            0.000906               0.000891
+59     0.023825  0.034482            0.000906               0.000891  

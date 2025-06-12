@@ -1,0 +1,2343 @@
+(18:32:42) Fold 1. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001971    0.08  0.003847        0.001557                0.001517
+(18:33:15) Fold 2. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00321  0.133333   0.00627        0.001607                0.001547
+(18:33:51) Fold 3. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002001  0.078947  0.003904        0.001939                0.001882
+(18:34:30) Fold 4. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003566  0.144737   0.00696        0.001897                0.001848
+(18:35:09) Fold 5. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002325  0.092105  0.004535        0.002119                0.001817
+(18:35:48) Fold 1. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002398    0.08  0.004657        0.002819                0.002273
+(18:36:28) Fold 2. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00316  0.106667  0.006137        0.002019                0.001888
+(18:37:07) Fold 3. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002902  0.092105  0.005627        0.002014                0.001948
+(18:37:47) Fold 4. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00359  0.118421  0.006969        0.001742                0.001674
+(18:38:27) Fold 5. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002518  0.078947   0.00488        0.001809                0.001655
+(18:39:06) Fold 1. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002636    0.08  0.005104         0.00241                0.002289
+(18:39:46) Fold 2. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004405  0.133333  0.008529        0.001796                0.001747
+(18:40:26) Fold 3. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004083  0.118421  0.007895        0.002106                0.002044
+(18:41:06) Fold 4. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003702  0.105263  0.007152        0.001987                 0.00185
+(18:41:46) Fold 5. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003244  0.092105  0.006267        0.001594                0.001556
+(18:42:26) Fold 1. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00244  0.066667  0.004708        0.002153                0.002086
+(18:43:06) Fold 2. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005778    0.16  0.011152        0.001574                0.001535
+(18:43:47) Fold 3. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0     0.0043  0.118421  0.008299        0.001994                0.001943
+(18:44:27) Fold 4. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005314  0.144737  0.010252        0.001735                0.001689
+(18:45:09) Fold 5. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005253  0.144737  0.010138        0.001551                0.001517
+(18:45:49) Fold 1. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002538  0.066667   0.00489        0.001777                0.001716
+(18:46:30) Fold 2. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005192  0.133333  0.009995        0.001514                0.001479
+(18:47:09) Fold 3. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005071  0.131579  0.009766        0.001634                0.001598
+(18:47:48) Fold 4. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004562  0.118421  0.008785         0.00157                0.001535
+(18:48:27) Fold 5. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004511  0.118421  0.008691        0.001425                0.001393
+(18:49:06) Fold 1. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001075    0.04  0.002094        0.001687                 0.00162
+(18:49:06) Fold 2. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001911    0.08  0.003733        0.002077                0.001903
+(18:49:07) Fold 3. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003055  0.078947  0.005882        0.002211                0.002135
+(18:49:07) Fold 4. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00163  0.065789  0.003181        0.002408                0.002268
+(18:49:07) Fold 5. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001077  0.052632   0.00211        0.002168                0.002089
+(18:49:07) Fold 1. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001834  0.066667   0.00357        0.022105                0.020884
+(18:49:07) Fold 2. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002591  0.093333  0.005041        0.003596                0.003005
+(18:49:07) Fold 3. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002941  0.078947  0.005671        0.003965                0.002961
+(18:49:08) Fold 4. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00212  0.078947  0.004129        0.002388                0.002209
+(18:49:08) Fold 5. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00118  0.039474  0.002291        0.019722                0.010869
+(18:49:08) Fold 1. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002266    0.08  0.004407        0.002186                 0.00205
+(18:49:08) Fold 2. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002969    0.12  0.005795        0.002174                0.002111
+(18:49:08) Fold 3. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003858  0.118421  0.007472        0.012418                0.009152
+(18:49:09) Fold 4. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00302  0.118421   0.00589        0.002124                0.002051
+(18:49:09) Fold 5. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001163  0.039474   0.00226        0.001759                0.001708
+(18:49:09) Fold 1. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001871  0.066667   0.00364         0.00165                0.001613
+(18:49:09) Fold 2. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002214  0.093333  0.004326          0.0021                0.002042
+(18:49:10) Fold 3. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002677  0.092105  0.005203        0.002078                0.002026
+(18:49:10) Fold 4. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002943  0.118421  0.005743        0.002102                0.002042
+(18:49:10) Fold 5. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00102  0.039474  0.001989        0.002001                0.001914
+(18:49:11) Fold 1. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001784  0.066667  0.003475        0.001412                0.001381
+(18:49:11) Fold 2. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002403  0.106667    0.0047        0.001994                0.001936
+(18:49:11) Fold 3. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003332  0.131579    0.0065        0.001689                 0.00164
+(18:49:12) Fold 4. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003916  0.171053  0.007656        0.001841                0.001784
+(18:49:12) Fold 5. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001158  0.052632  0.002266        0.001728                0.001668
+(18:49:12) Fold 1. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.000976    0.04  0.001906        0.001852                0.001752
+(18:49:12) Fold 2. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002199    0.08   0.00428        0.001701                0.001646
+(18:49:13) Fold 3. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002621  0.078947  0.005074        0.002578                0.002454
+(18:49:13) Fold 4. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001918  0.078947  0.003744         0.00296                0.002557
+(18:49:13) Fold 5. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001306  0.052632  0.002549        0.002155                0.002084
+(18:49:13) Fold 1. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001727  0.066667  0.003367        0.024212                0.023022
+(18:49:13) Fold 2. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002465  0.093333  0.004803        0.002622                0.002455
+(18:49:13) Fold 3. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003022  0.092105  0.005853        0.006835                0.004558
+(18:49:13) Fold 4. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002527  0.092105  0.004919        0.002769                0.002495
+(18:49:14) Fold 5. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001628  0.052632  0.003158        0.028979                0.028831
+(18:49:14) Fold 1. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002426  0.093333  0.004728         0.00367                0.003164
+(18:49:14) Fold 2. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00305    0.12  0.005948        0.001747                0.001706
+(18:49:14) Fold 3. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003057  0.105263  0.005941        0.003036                0.002776
+(18:49:14) Fold 4. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003115  0.118421  0.006071         0.00235                0.002262
+(18:49:15) Fold 5. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.000763  0.026316  0.001483        0.001831                0.001784
+(18:49:15) Fold 1. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001937    0.08  0.003783        0.001624                0.001589
+(18:49:15) Fold 2. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002285  0.093333  0.004461        0.001596                0.001559
+(18:49:15) Fold 3. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001814  0.078947  0.003547         0.00186                0.001819
+(18:49:16) Fold 4. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002708  0.118421  0.005296        0.002034                0.001981
+(18:49:16) Fold 5. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.000926  0.039474  0.001811        0.001838                0.001787
+(18:49:16) Fold 1. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.001902    0.08  0.003715        0.001365                0.001336
+(18:49:16) Fold 2. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002836    0.12  0.005542         0.00153                 0.00149
+(18:49:17) Fold 3. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002873  0.131579  0.005623        0.001567                0.001523
+(18:49:17) Fold 4. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002739  0.131579  0.005366         0.00172                0.001672
+(18:49:17) Fold 5. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00084  0.039474  0.001645        0.001557                0.001516
+(18:49:18) Fold 1. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019442  0.826667   0.03799        0.000866                0.000849
+(18:50:33) Fold 2. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019465  0.853333  0.038061        0.000847                0.000834
+(18:51:48) Fold 3. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.020768  0.868421  0.040565        0.000859                0.000846
+(18:53:06) Fold 4. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.020917  0.894737  0.040878        0.000886                0.000862
+(18:54:22) Fold 5. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019645  0.815789  0.038366         0.00088                0.000862
+(18:55:38) Fold 1. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.826667  0.044238        0.000918                0.000885
+(18:56:54) Fold 2. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02365  0.893333   0.04608        0.000848                0.000835
+(18:58:10) Fold 3. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024696  0.881579  0.048046        0.000856                0.000844
+(18:59:27) Fold 4. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023861  0.868421  0.046446        0.000881                 0.00086
+(19:00:41) Fold 5. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022727  0.776316  0.044162        0.000919                0.000891
+(19:01:57) Fold 1. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023132  0.813333  0.044985        0.001042                0.000989
+(19:03:14) Fold 2. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024754  0.906667  0.048193        0.000851                0.000836
+(19:04:30) Fold 3. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024962  0.868421  0.048529        0.000864                0.000851
+(19:05:46) Fold 4. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025791  0.868421  0.050095        0.000929                0.000895
+(19:07:03) Fold 5. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023866  0.789474  0.046332        0.000906                0.000889
+(19:08:20) Fold 1. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024312  0.813333  0.047214        0.000974                0.000938
+(19:09:37) Fold 2. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024778  0.893333  0.048219        0.000864                0.000847
+(19:10:53) Fold 3. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024473  0.855263  0.047584        0.000871                0.000856
+(19:12:09) Fold 4. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024914  0.855263  0.048417          0.0009                 0.00088
+(19:13:26) Fold 5. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022927  0.789474   0.04456        0.001034                 0.00097
+(19:14:30) Fold 1. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024371  0.813333  0.047324         0.00096                0.000918
+(19:15:32) Fold 2. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024833  0.893333  0.048323        0.000921                0.000879
+(19:16:33) Fold 3. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024124  0.842105  0.046904        0.000874                0.000859
+(19:17:34) Fold 4. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023855  0.815789  0.046355        0.000894                0.000875
+(19:18:34) Fold 5. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022416  0.776316  0.043575        0.000906                0.000887
+(19:19:36) Fold 1. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019442  0.826667   0.03799        0.000888                0.000864
+(19:21:19) Fold 2. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019751  0.866667  0.038622        0.000844                0.000831
+(19:22:57) Fold 3. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.021384  0.894737  0.041769        0.000854                0.000842
+(19:24:36) Fold 4. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02059  0.881579   0.04024          0.0009                 0.00087
+(19:26:12) Fold 5. Main param: n_neighbors=5. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 5}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.019949  0.828947  0.038961        0.000989                0.000926
+(19:27:49) Fold 1. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022644  0.826667  0.044081          0.0009                0.000871
+(19:29:27) Fold 2. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023575  0.893333  0.045938        0.000842                0.000831
+(19:31:05) Fold 3. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024641  0.881579  0.047943        0.000856                0.000844
+(19:32:42) Fold 4. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023724  0.868421  0.046186        0.000939                0.000886
+(19:34:20) Fold 5. Main param: n_neighbors=10. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 10}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023024  0.789474  0.044743        0.000877                0.000861
+(19:35:57) Fold 1. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023481    0.84  0.045685        0.001014                0.000963
+(19:37:35) Fold 2. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024355  0.906667  0.047436        0.000847                0.000834
+(19:39:16) Fold 3. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024907  0.881579  0.048445        0.000867                 0.00085
+(19:40:59) Fold 4. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.025621  0.881579  0.049796        0.000871                0.000854
+(19:42:41) Fold 5. Main param: n_neighbors=20. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 20}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023865  0.802632  0.046353        0.000892                0.000875
+(19:44:23) Fold 1. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023512  0.826667  0.045723        0.000963                0.000928
+(19:46:10) Fold 2. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.024731    0.92  0.048168        0.000851                0.000837
+(19:48:17) Fold 3. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023886  0.881579  0.046512        0.000885                0.000863
+(19:50:15) Fold 4. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.02476  0.881579  0.048167         0.00088                0.000863
+(19:52:12) Fold 5. Main param: n_neighbors=35. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 35}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022719  0.815789  0.044207        0.000887                0.000871
+(19:54:19) Fold 1. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023925  0.853333  0.046545        0.000953                0.000911
+(19:56:26) Fold 2. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023575  0.893333  0.045938        0.000853                0.000839
+(19:58:34) Fold 3. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023784  0.881579  0.046319        0.000882                0.000865
+(20:00:42) Fold 4. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.023939  0.868421  0.046594        0.000889                 0.00087
+(20:02:50) Fold 5. Main param: n_neighbors=50. All params: {'novelty': True, 'n_jobs': -1, 'n_neighbors': 50}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022117  0.802632  0.043049        0.000891                0.000874
+(20:04:58) Fold 1. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00241                0.002289
+(20:05:37) Fold 2. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001796                0.001747
+(20:06:15) Fold 3. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002106                0.002044
+(20:06:54) Fold 4. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001987                 0.00185
+(20:07:32) Fold 5. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001594                0.001556
+(20:08:10) Fold 1. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00241                0.002289
+(20:08:49) Fold 2. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001796                0.001747
+(20:09:27) Fold 3. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002106                0.002044
+(20:10:05) Fold 4. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001987                 0.00185
+(20:10:43) Fold 5. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001594                0.001556
+(20:11:22) Fold 1. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003876  0.013333  0.006006         0.00241                0.002289
+(20:12:00) Fold 2. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.009302  0.026667  0.013793        0.001796                0.001747
+(20:12:39) Fold 3. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002106                0.002044
+(20:13:17) Fold 4. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.00813  0.026316  0.012422        0.001987                 0.00185
+(20:13:56) Fold 5. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004854  0.013158  0.007092        0.001594                0.001556
+(20:14:35) Fold 1. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.002058  0.013333  0.003565         0.00241                0.002289
+(20:15:14) Fold 2. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004301  0.026667  0.007407        0.001796                0.001747
+(20:15:53) Fold 3. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004673  0.026316  0.007937        0.002106                0.002044
+(20:16:31) Fold 4. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004237  0.026316  0.007299        0.001987                 0.00185
+(20:17:09) Fold 5. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.NONE, sampling strategy 0.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.008493  0.052632  0.014625        0.001594                0.001556
+(20:17:46) Fold 1. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002186                 0.00205
+(20:17:46) Fold 2. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.022901    0.04  0.029126        0.002174                0.002111
+(20:17:47) Fold 3. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.012418                0.009152
+(20:17:47) Fold 4. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002135                0.002051
+(20:17:47) Fold 5. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001759                0.001708
+(20:17:47) Fold 1. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002186                 0.00205
+(20:17:48) Fold 2. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.015228    0.04  0.022059        0.002174                0.002111
+(20:17:48) Fold 3. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.012418                0.009152
+(20:17:48) Fold 4. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002135                0.002051
+(20:17:48) Fold 5. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001759                0.001708
+(20:17:49) Fold 1. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002186                 0.00205
+(20:17:49) Fold 2. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.006452    0.04  0.011111        0.002174                0.002111
+(20:17:49) Fold 3. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.012418                0.009152
+(20:17:49) Fold 4. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002135                0.002051
+(20:17:50) Fold 5. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001759                0.001708
+(20:17:50) Fold 1. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002186                 0.00205
+(20:17:50) Fold 2. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.004587    0.04   0.00823        0.002174                0.002111
+(20:17:50) Fold 3. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.012418                0.009152
+(20:17:50) Fold 4. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002124                0.002051
+(20:17:51) Fold 5. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001759                0.001708
+(20:17:51) Fold 1. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00367                0.003164
+(20:17:51) Fold 2. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.018868    0.04  0.025641        0.001747                0.001706
+(20:17:51) Fold 3. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.003036                0.002776
+(20:17:52) Fold 4. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002363                0.002262
+(20:17:52) Fold 5. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001831                0.001784
+(20:17:52) Fold 1. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00367                0.003164
+(20:17:52) Fold 2. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.015306    0.04   0.02214        0.001747                0.001706
+(20:17:52) Fold 3. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.003036                0.002776
+(20:17:53) Fold 4. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002363                0.002262
+(20:17:53) Fold 5. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001831                0.001784
+(20:17:53) Fold 1. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00367                0.003164
+(20:17:53) Fold 2. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.007481    0.04  0.012605        0.001747                0.001706
+(20:17:53) Fold 3. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.003036                0.002776
+(20:17:54) Fold 4. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.002363                0.002262
+(20:17:54) Fold 5. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001831                0.001784
+(20:17:54) Fold 1. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0         0.00367                0.003164
+(20:17:54) Fold 2. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.005618    0.04  0.009852        0.001747                0.001706
+(20:17:54) Fold 3. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.003036                0.002776
+(20:17:55) Fold 4. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.003906  0.026316  0.006803         0.00235                0.002262
+(20:17:55) Fold 5. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.UNDER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001831                0.001784
+(20:17:55) Fold 1. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001042                0.000989
+(20:19:10) Fold 2. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000851                0.000836
+(20:20:25) Fold 3. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000864                0.000851
+(20:21:41) Fold 4. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000929                0.000895
+(20:22:56) Fold 5. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000906                0.000889
+(20:24:12) Fold 1. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.22549  0.306667  0.259887        0.001042                0.000989
+(20:25:28) Fold 2. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.2  0.213333  0.206452        0.000851                0.000836
+(20:26:45) Fold 3. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.144928  0.131579  0.137931        0.000864                0.000851
+(20:28:02) Fold 4. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.208791    0.25  0.227545        0.000929                0.000895
+(20:29:19) Fold 5. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.253333    0.25  0.251656        0.000906                0.000889
+(20:30:36) Fold 1. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.14511  0.613333  0.234694        0.001042                0.000989
+(20:31:53) Fold 2. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.153614    0.68  0.250614        0.000851                0.000836
+(20:33:09) Fold 3. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0       0.17  0.671053  0.271277        0.000864                0.000851
+(20:34:27) Fold 4. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.160377  0.671053  0.258883        0.000929                0.000895
+(20:35:43) Fold 5. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.158076  0.605263  0.250681        0.000906                0.000889
+(20:37:00) Fold 1. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.11501  0.786667   0.20068        0.001042                0.000989
+(20:38:16) Fold 2. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.105647  0.773333  0.185897        0.000851                0.000836
+(20:39:34) Fold 3. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.120968  0.789474   0.20979        0.000864                0.000851
+(20:40:50) Fold 4. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.121622  0.828947  0.212121        0.000929                0.000895
+(20:42:07) Fold 5. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 0.5.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.112583  0.671053  0.192817        0.000906                0.000889
+(20:43:23) Fold 1. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.001014                0.000963
+(20:45:31) Fold 2. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000847                0.000834
+(20:47:39) Fold 3. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000867                 0.00085
+(20:49:46) Fold 4. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.090909  0.013158  0.022989        0.000871                0.000854
+(20:51:53) Fold 5. Main param: contamination=0.0001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.0001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0        0.0     0.0       0.0        0.000892                0.000875
+(20:54:00) Fold 1. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0    0.23741    0.44  0.308411        0.001014                0.000963
+(20:56:08) Fold 2. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.238095     0.4  0.298507        0.000847                0.000834
+(20:58:17) Fold 3. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.264151  0.368421  0.307692        0.000867                 0.00085
+(21:00:25) Fold 4. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.228814  0.355263  0.278351        0.000871                0.000854
+(21:02:33) Fold 5. Main param: contamination=0.001. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.001}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.238938  0.355263  0.285714        0.000892                0.000875
+(21:04:41) Fold 1. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.136986     0.8  0.233918        0.001014                0.000963
+(21:06:49) Fold 2. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.127932     0.8  0.220588        0.000847                0.000834
+(21:08:56) Fold 3. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.139535  0.789474  0.237154        0.000867                 0.00085
+(21:11:05) Fold 4. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.154217  0.842105  0.260692        0.000871                0.000854
+(21:13:15) Fold 5. Main param: contamination=0.005. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.005}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.140704  0.736842  0.236287        0.000892                0.000875
+(21:15:11) Fold 1. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision  Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.089552     0.8  0.161074        0.001014                0.000963
+(21:16:57) Fold 2. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.090278  0.866667  0.163522        0.000847                0.000834
+(21:18:54) Fold 3. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.095238  0.842105  0.171123        0.000867                 0.00085
+(21:20:51) Fold 4. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.097598  0.855263  0.175202        0.000871                0.000854
+(21:22:47) Fold 5. Main param: contamination=0.01. All params: {'novelty': True, 'n_jobs': -1, 'contamination': 0.01}.
+Sampling method SamplingMethod.OVER, sampling strategy 1.
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+c:\Users\Michal\AppData\Local\Programs\Python\Python313\Lib\site-packages\sklearn\utils\validation.py:2739: UserWarning: X does not have valid feature names, but LocalOutlierFactor was fitted with feature names
+  warnings.warn(
+
+Ocena jakości modelu:
+   Precision    Recall  F1-Score  Avg. Precision  AUC PR (interpolowane)
+0   0.094771  0.763158  0.168605        0.000892                0.000875
+   sampling  sampling_strategy          param    value  mean_precision  \
+0      NONE                0.0    n_neighbors   5.0000        0.002615
+1      NONE                0.0    n_neighbors  10.0000        0.002914
+2      NONE                0.0    n_neighbors  20.0000        0.003614
+3      NONE                0.0    n_neighbors  35.0000        0.004617
+4      NONE                0.0    n_neighbors  50.0000        0.004375
+5     UNDER                0.5    n_neighbors   5.0000        0.001750
+6     UNDER                0.5    n_neighbors  10.0000        0.002133
+7     UNDER                0.5    n_neighbors  20.0000        0.002655
+8     UNDER                0.5    n_neighbors  35.0000        0.002145
+9     UNDER                0.5    n_neighbors  50.0000        0.002519
+10    UNDER                1.0    n_neighbors   5.0000        0.001804
+11    UNDER                1.0    n_neighbors  10.0000        0.002274
+12    UNDER                1.0    n_neighbors  20.0000        0.002482
+13    UNDER                1.0    n_neighbors  35.0000        0.001934
+14    UNDER                1.0    n_neighbors  50.0000        0.002238
+15     OVER                0.5    n_neighbors   5.0000        0.020047
+16     OVER                0.5    n_neighbors  10.0000        0.023532
+17     OVER                0.5    n_neighbors  20.0000        0.024501
+18     OVER                0.5    n_neighbors  35.0000        0.024281
+19     OVER                0.5    n_neighbors  50.0000        0.023920
+20     OVER                1.0    n_neighbors   5.0000        0.020223
+21     OVER                1.0    n_neighbors  10.0000        0.023522
+22     OVER                1.0    n_neighbors  20.0000        0.024446
+23     OVER                1.0    n_neighbors  35.0000        0.023921
+24     OVER                1.0    n_neighbors  50.0000        0.023468
+25     NONE                0.0  contamination   0.0001        0.000000
+26     NONE                0.0  contamination   0.0010        0.000000
+27     NONE                0.0  contamination   0.0050        0.005233
+28     NONE                0.0  contamination   0.0100        0.004752
+29    UNDER                0.5  contamination   0.0001        0.004580
+30    UNDER                0.5  contamination   0.0010        0.003046
+31    UNDER                0.5  contamination   0.0050        0.001290
+32    UNDER                0.5  contamination   0.0100        0.000917
+33    UNDER                1.0  contamination   0.0001        0.003774
+34    UNDER                1.0  contamination   0.0010        0.003061
+35    UNDER                1.0  contamination   0.0050        0.001496
+36    UNDER                1.0  contamination   0.0100        0.001905
+37     OVER                0.5  contamination   0.0001        0.000000
+38     OVER                0.5  contamination   0.0010        0.206508
+39     OVER                0.5  contamination   0.0050        0.157436
+40     OVER                0.5  contamination   0.0100        0.115166
+41     OVER                1.0  contamination   0.0001        0.018182
+42     OVER                1.0  contamination   0.0010        0.241482
+43     OVER                1.0  contamination   0.0050        0.139875
+44     OVER                1.0  contamination   0.0100        0.093487
+
+    mean_recall   mean_f1  mean_avg_precision  mean_interpolated_auc
+0      0.105825  0.005103            0.001824               0.001722
+1      0.095228  0.005654            0.002081               0.001888
+2      0.105825  0.006989            0.001979               0.001897
+3      0.126912  0.008910            0.001801               0.001754
+4      0.113684  0.008425            0.001584               0.001544
+5      0.063474  0.003400            0.002110               0.002003
+6      0.071474  0.004141            0.010355               0.007985
+7      0.095263  0.005165            0.004132               0.003414
+8      0.082000  0.004180            0.001986               0.001928
+9      0.105719  0.004919            0.001733               0.001682
+10     0.066105  0.003510            0.002249               0.002099
+11     0.079368  0.004420            0.013083               0.012272
+12     0.092667  0.004834            0.002527               0.002338
+13     0.082035  0.003780            0.001791               0.001747
+14     0.100526  0.004378            0.001548               0.001507
+15     0.851789  0.039172            0.000868               0.000851
+16     0.849263  0.045794            0.000884               0.000863
+17     0.849263  0.047627            0.000918               0.000892
+18     0.841333  0.047199            0.000929               0.000898
+19     0.828175  0.046496            0.000911               0.000883
+20     0.859719  0.039516            0.000895               0.000867
+21     0.851895  0.045778            0.000883               0.000859
+22     0.862491  0.047543            0.000898               0.000875
+23     0.865123  0.046555            0.000893               0.000873
+24     0.859860  0.045689            0.000893               0.000872
+25     0.000000  0.000000            0.001979               0.001897
+26     0.000000  0.000000            0.001979               0.001897
+27     0.015895  0.007863            0.001979               0.001897
+28     0.029053  0.008167            0.001979               0.001897
+29     0.008000  0.005825            0.004134               0.003414
+30     0.008000  0.004412            0.004134               0.003414
+31     0.008000  0.002222            0.004134               0.003414
+32     0.008000  0.001646            0.004132               0.003414
+33     0.008000  0.005128            0.002529               0.002338
+34     0.008000  0.004428            0.002529               0.002338
+35     0.008000  0.002521            0.002529               0.002338
+36     0.013263  0.003331            0.002527               0.002338
+37     0.000000  0.000000            0.000918               0.000892
+38     0.230316  0.216694            0.000918               0.000892
+39     0.648140  0.253230            0.000918               0.000892
+40     0.769895  0.200261            0.000918               0.000892
+41     0.002632  0.004598            0.000898               0.000875
+42     0.383789  0.295735            0.000898               0.000875
+43     0.793684  0.237728            0.000898               0.000875
+44     0.825439  0.167905            0.000898               0.000875  
